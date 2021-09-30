@@ -1,0 +1,50 @@
+/* body {
+  background-color: #f5f5f5;
+  background-image: url("mick-haupt-RBNJ5DTvjTc-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+#box {
+  display: block;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #fff;
+  color: seashell;
+  font-size: 20px;
+  background-color:rgba(15, 169, 230, 0.336);
+  text-align: center;
+  margin: 50px auto;
+  padding: 25px;
+
+
+}
+
+.floating-image {
+  float:right;
+  margin: 10px;
+  border: 2px solid beige;
+  box-shadow: 0 0 0.5 darkgrey;
+}
+
+.float {
+  border: 1px solid #00f;
+  display: inline-block;
+  width: 210px;
+  height: 210px;
+  text-align: center;
+  border-radius: 50% 50%;
+  color: aqua;
+  background-color: brown;
+  
+
+    
+}
+
+#mee {
+  float: right;
+}
+
+#mu {
+  float: inline-end;
+}

@@ -1,0 +1,57 @@
+body {
+    background-color: #fff;
+    background-size:cover;
+}
+
+.navbar {
+        border: #fff;
+        height: 84px;
+        font-size: 22px;
+        margin: 38px;
+}
+
+div.rocket {
+    background-image: url("https://rocketman.learnwagtail.com/media/images/spacex-OHOU-5UVIYQ-unsplash.2e16d0ba.fill-786x552.jpg");
+    background-size: cover;
+    height: 500px;
+    color: #fff;
+    padding: 225px 50px 20px 10px;
+
+}
+
+p.con {
+    color: #000;
+    background-color: #fff;
+}
+
+#para {
+    float: right;
+    text-align: right;
+}
+
+
+#both {
+font-size: 60px;
+margin: 20px 50px 1px 50px;
+}
+
+#mineroc {
+    font-size: 25px;
+    margin: 41px 50px auto 50px;
+}
+
+
+.con {
+    width: 200px;
+    text-align: center;
+    font-size: 0px;
+    margin: 41px 50px auto 50px;
+    font-size: 35px;
+    border: 1px solid white;
+}
+
+#new {
+    display: inline;
+    /* padding: auto 10px ; */
+    margin: auto 44px;
+}
